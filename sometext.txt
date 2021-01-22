@@ -1,6 +1,5 @@
 turtles
 pants
-jesus
 cool
 stuff
 man
